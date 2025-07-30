@@ -1,4 +1,4 @@
-# 🌈 MSI Generator
+# MSI Generator
 
 > High-fidelity multispectral image generation using a Swin-U-Net model. Converts RGB images into 6-channel multispectral outputs through an interactive UI and scalable API.
 
