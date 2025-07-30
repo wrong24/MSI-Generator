@@ -144,7 +144,7 @@ The best model is saved as best_generator.pth.
 Move it to the model_api/ folder to use it with the API.
 
 📁 Project Structure
-
+```arduino
 MSIGenerator/
 ├── model_api/
 │   ├── best_generator.pth
@@ -160,3 +160,4 @@ MSIGenerator/
 │   ├── config.py
 │   └── dataset.py
 └── README.md
+```
